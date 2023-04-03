@@ -10,4 +10,8 @@ public class Main {
         //asuyp
         //asdn;sdf
     }
+
+    public void newMEthod(){
+        System.out.println("This is a new method for GitHub Demo purposes");
+    }
 }

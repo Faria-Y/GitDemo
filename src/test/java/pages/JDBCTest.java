@@ -44,6 +44,25 @@ public class JDBCTest {
 
 
     }
+
+    @Test
+    public void randomTest(){
+        System.out.println("Making some random changes");
+    }
+
+    @Test
+    public void randomTest1(){
+        System.out.println("Learning Git");
+    }
+
+    @Test
+    public void learning(){
+        System.out.println("Going to push this to GitHub Soon");
+    }
+
+
+
+
     @After
     public void closeConnection() throws Exception{
         // 4. Close the connection
