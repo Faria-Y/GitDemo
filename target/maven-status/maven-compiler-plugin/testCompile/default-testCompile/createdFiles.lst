@@ -1,0 +1,15 @@
+pages\BasePage.class
+stepDefs\LoginSteps.class
+pages\HomePage.class
+runners\TestRunner.class
+stepDefs\NSAAutomationSteps.class
+utilities\Driver.class
+pages\NSAAutomationPage.class
+stepDefs\NewCheckingAccountSteps.class
+stepDefs\Hooks.class
+pages\Registration.class
+stepDefs\RegistrationSteps.class
+utilities\ConfigReader.class
+pages\NewCheckingAccountPage.class
+stepDefs\HomeSteps.class
+pages\Login.class
