@@ -14,4 +14,9 @@ public class Main {
     public void newMEthod(){
         System.out.println("This is a new method for GitHub Demo purposes");
     }
+
+    public void newMethod1(){
+        System.out.println("Testing 123 on master branch");
+    }
+
 }
